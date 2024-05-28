@@ -216,19 +216,19 @@ span {
 
 @keyframes words {
     0%, 20% {
-        content: 'Physics Student ';
+        content: 'a Physics Student ';
     }
     21%, 40% {
-        content: 'Astrophile ';
+        content: 'an Astrophile ';
     }
     41%, 60% {
-        content: 'Editor ';
+        content: 'an Editor ';
     }
     61%, 80% {
-        content: 'Physics Student ';
+        content: 'a Physics Student ';
     }
     81%, 100% {
-        content: 'Astrophile ';
+        content: 'an Astrophile ';
     }
 }
 
