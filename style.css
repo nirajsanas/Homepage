@@ -13,10 +13,10 @@ body {
 }
 
 :root {
-    --bg-color: #EDEBDD;
-    --second-bg-color: #3E000C;
+    --bg-color: #cbc0b2;
+    --second-bg-color: #7e6961;
     --text-color: black;
-    --main-color: #810100;
+    --main-color: #550b14;
 }
 
 html {
@@ -652,5 +652,6 @@ span {
         font-size: 13px;
     }
 }
+
 
 
